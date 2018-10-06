@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Docker",
+        href: "https://www.docker.com/"
     },
     {
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Leetcode",
+        href: "https://leetcode.com/"
     }
 ]
