@@ -58,13 +58,13 @@ tags:
 
 - k值是一个超参数，调节k的过程实际上是k-近邻模型模型拟合程度的权衡，如果k**过分小**则模型表现为**过拟合**，反之如果k**过分大**，则模型表现为**欠拟合**。这一点在**决策边界**上表现的相当吻合，当k值**过分小**时，决策边界比较**曲折复杂**，反之，当k值增大时，决策边界会变得更加**平滑简单**。当然，这两种都不是理想情况，一般使用**交叉验证**等技术来选择合适的k值，k的一个经验区间是不超过 $ \sqrt{M} $ 。
 
-!['k=1'](/home/hao/Downloads/Typora-linux-x64/k1.png)
+!['k=1'](https://raw.githubusercontent.com/Hao6/picGoImageHosting/master/img/k1.png)
 
-![k=2](/home/hao/Downloads/Typora-linux-x64/k2.png)
+!['k=2'](https://raw.githubusercontent.com/Hao6/picGoImageHosting/master/img/k2.png)
 
-!['k=5'](/home/hao/Downloads/Typora-linux-x64/k3.png)
+!['k=5'](https://raw.githubusercontent.com/Hao6/picGoImageHosting/master/img/k3.png)
 
-!['k=10'](/home/hao/Downloads/Typora-linux-x64/k4.png)
+!['k=10'](https://raw.githubusercontent.com/Hao6/picGoImageHosting/master/img/k4.png)
 
 ### 优点与不足
 
