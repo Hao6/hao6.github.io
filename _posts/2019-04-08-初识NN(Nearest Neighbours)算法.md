@@ -38,7 +38,6 @@ tags:
 懒惰式knn时间复杂度
 
 设训练集包括M个D维向量，则训练时不消耗时间，而在预测的第一个阶段，平均时间复杂度是 $O{(N*D)}$ 
-<a href="https://www.codecogs.com/eqnedit.php?latex=$O{(N*D)}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$O{(N*D)}$" title="$O{(N*D)}$" /></a>
 在训练的第二个阶段，平均时间复杂度是 $O{(\log(N) * N)}$ 
 
 且在预测过程中，需要存储第一阶段计算产生的**N**个距离记录。
