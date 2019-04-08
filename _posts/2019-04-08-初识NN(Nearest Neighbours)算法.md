@@ -11,8 +11,8 @@ tags:
 ---
 
 > *世界上最遥远的距离，不是生与死，而是我就站在决策边界这边，你站在决策边界那边。*
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*《世界上最遥远的距离》秦戈尔*
->															--
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-------*《世界上最遥远的距离》秦戈尔*
+>															
 
 最近在学习有关近邻算法的内容，在没学习之前，了解过knn等基于距离的算法，感觉这个算法比较简单，没有什么可供挖掘的东西，但在进一步了解之后，才发现自己的确是才疏学浅，近邻算法中需要注意的问题还有很多，例如距离（相似性）度量，k值选择，维度灾难等问题在工程运用中可能都会碰到。本篇**破文**希望能达到抛砖引玉的效果，总结一下最近的学习。
 
